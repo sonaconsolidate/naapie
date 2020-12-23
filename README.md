@@ -1,4 +1,4 @@
-# NAAPIE
+# NAAPIE ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 “Everything in the universe has a rhythm, everything dances.” 
 With Naapie, it’s easy to find your desired moment musics or podcasts for every moment – on your phone, your computer, your tablet and more.
 
