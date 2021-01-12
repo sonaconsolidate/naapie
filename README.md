@@ -8,7 +8,22 @@ You can also browse through the collections of friends, artists, and celebrities
 
 Soundtrack your life with Naapie. Stay connected and enjoy and.
 
-## V1.0.0 Titanium-octopus (28-12-2020)
+## V2.0.0 Nylon-Hyperdrive (12-Jan-2021) 
+### Bugfixes
+1) **Multiple Song Playing**: Fixed multiple song playing at a time [[NAAPIE-120](https://sonaconsolidate11.atlassian.net/browse/NAAPIE-120)] 
+2) **Buttom Navigation**: Buttom navigation routing fixed for podcast section
+3) **Autoplaying Music**: Fixed auto queueing the music for providing the auto play afte it ends. 
+4) **Multiple audio player**: Fixed the multiple audio player opened when music ends playing
+### Features
+1) **Podcasts**:  Added podcast from different section (music, sports, India region, and popular) with detailsed episodes
+2) **User Authentication**: Added app features to login and view the profile of registered user
+3) **User Language Selection**: Provided option to select the desired language for the collection of musics and podcasts
+4) **New Language Songs**: Added Telugu and Kannada (album, movie, collection, rocks) songs for user
+5) **Internet Connectivity**: Added internet connectivity dialog when application looses the connection
+6) **Location concet**: Location access concent provide to the application user when skip of language selection is done. 
+7) **Search Musics**: Feature to search the song added for uses
+
+## V1.0.0 Titanium-octopus (28-Dec-2020)
 ### Features
 1) Music from different languages
     ● Nepali, 
@@ -25,18 +40,3 @@ Soundtrack your life with Naapie. Stay connected and enjoy and.
 8) Collection of popular tracks from different singers
 9) Option to play and add in the queue for auto-playing
 10) Cool looking background playing notification player with basic controlls
-
-## V2.0.0 Nylon-Hyperdrive (Date) 
-### Bugfixes
-1) **Multiple Song Playing**: Fixed multiple song playing at a time [[NAAPIE-120](https://sonaconsolidate11.atlassian.net/browse/NAAPIE-120)] 
-2) **Buttom Navigation**: Buttom navigation routing fixed for podcast section
-3) **Autoplaying Music**: Fixed auto queueing the music for providing the auto play afte it ends. 
-4) **Multiple audio player**: Fixed the multiple audio player opened when music ends playing
-### Features
-1) **Podcasts**:  Added podcast from different section (music, sports, India region, and popular) with detailsed episodes
-2) **User Authentication**: Added app features to login and view the profile of registered user
-3) **User Language Selection**: Provided option to select the desired language for the collection of musics and podcasts
-4) **New Language Songs**: Added Telugu and Kannada (album, movie, collection, rocks) songs for user
-5) **Internet Connectivity**: Added internet connectivity dialog when application looses the connection
-6) **Location concet**: Location access concent provide to the application user when skip of language selection is done. 
-7) 
