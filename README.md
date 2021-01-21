@@ -8,6 +8,16 @@ You can also browse through the collections of friends, artists, and celebrities
 
 Soundtrack your life with Naapie. Stay connected and enjoy and.
 
+## V2.1.0 Billowing-Feather (21-Jan-2021)
+### Bugfixes
+1) fixed the minimum 3 language selection for language choice 
+2) Login enabled for normal user with Limited_user key
+3) Optimized the user experience with the addition of smoothe animation.
+
+### Features
+1) Reminder added to rate the app on playstore within the user experience to help the team work and serve better features and bug fixes
+2) Dialog added when a new version is release by Naapie team
+
 ## V2.0.0 Nylon-Hyperdrive (12-Jan-2021) 
 ### Bugfixes
 1) **Multiple Song Playing**: Fixed multiple song playing at a time [[NAAPIE-120](https://sonaconsolidate11.atlassian.net/browse/NAAPIE-120)] 
