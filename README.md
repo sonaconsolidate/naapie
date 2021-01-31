@@ -8,6 +8,18 @@ You can also browse through the collections of friends, artists, and celebrities
 
 Soundtrack your life with Naapie. Stay connected and enjoy and.
 
+## V3.0.0 Proud-Unit (3-Feb-2021)
+## Bugfixes
+1) **Buttom player**: Fixed the bug for mini player while switching to category songs
+2) **Search Songs**: Removed the query case sensitivity while searching the songs 
+3) **Language Selected Songs**: Getting the songs based on the language selected songs by the users. 
+
+### Features
+1) **Language Section**: Provided in-depth section for all language in different tabs
+2) **Like, Favourite & Download**: Option added for logged user to like, favourite and download their songs to Naapie
+3) **Request Your Songs**: Added option to request the user songs when search result is not found. The system will upload the song automatically within 3-4 hours of request. 
+4) **Likes of Songs**: Added number of user likes to the song.  
+
 ## V2.1.0 Billowing-Feather (21-Jan-2021)
 ### Bugfixes
 1) fixed the minimum 3 language selection for language choice 
